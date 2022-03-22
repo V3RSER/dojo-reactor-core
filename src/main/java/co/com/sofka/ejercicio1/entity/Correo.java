@@ -1,4 +1,4 @@
-package co.com.sofka.ejercicio1;
+package co.com.sofka.ejercicio1.entity;
 
 public class Correo {
 
